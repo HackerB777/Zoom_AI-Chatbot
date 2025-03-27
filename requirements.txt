@@ -4,4 +4,4 @@ dotenv
 subprocess
 pyttsx3
 SpeechRecognition
-pip install --upgrade pip
+
